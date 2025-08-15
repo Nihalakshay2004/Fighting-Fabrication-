@@ -1,0 +1,29 @@
+# Deepfake Detection using CNN, ResNet50, and InceptionV3
+
+## 📌 Overview
+This project aims to detect **deepfake** and **real** images using multiple deep learning architectures.  
+With the rapid growth of synthetic media generation techniques, especially deepfakes, there is a growing need for automated tools to identify manipulated content.  
+
+In this project:
+- We train and evaluate **three main models**:
+  - A **Custom CNN (TinyVGG-style)**
+  - **ResNet50**
+  - **InceptionV3**
+- The models are trained on the [Deepfake and Real Images Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images).
+- The dataset is split into **Training**, **Validation**, and **Test** sets.
+- The models are evaluated using accuracy, ROC-AUC, and confusion matrices.
+
+---
+
+## 🚀 Features
+- **Multiple Architectures**: Experiments with CNN, ResNet50, and InceptionV3 for comparison.
+- **Data Augmentation**: Applied to improve generalization and reduce overfitting.
+- **Performance Metrics**: Evaluated using accuracy, ROC-AUC, precision, recall, and confusion matrices.
+- **Keras + TensorFlow**: Fully implemented using the Keras API with TensorFlow backend.
+
+---
+
+## 📂 Dataset
+- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images)
+- **Classes**: `Real` and `Fake`
+- **Structure**:
