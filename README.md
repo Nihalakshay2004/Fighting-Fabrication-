@@ -1,6 +1,7 @@
 # Fighting-Fabrication-
 project:
   name: "Fighting Fabrication"
+  
   description: >
     Using Deep Learning to detect fabricated or misleading content through data
     preprocessing, model training, and performance evaluation.
