@@ -103,7 +103,7 @@ license: "MIT (recommended, modify as needed)"
 author:
   name: "Nihal Akshay Chinta"
   github: "https://github.com/Nihalakshay2004"
-  email: "your-email@example.com"
-  linkedin: "your-link-here"
+  email: "nihalakshaychinta@gmail.com"
+  linkedin: "https://www.linkedin.com/in/chinta-nihalakshay/"
 
 thank_you_message: "Thank you for exploring this project! 🚀 Feel free to modify or extend it."
